@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "login-signup-testing-1cbf9",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
